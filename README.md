@@ -4,7 +4,7 @@ Code and data accompanying the work to produce figures of the paper 'Which indus
 
 ## Description
 **Last modified:** 26 March 2020 <br>
-**Authors:** Fabian Stephany, Niklas Stoehr, Philipp Darius, Leonie Neuh\"auser, Ole Teutloff, Fabian Braesemann<br>
+**Authors:** Fabian Stephany, Niklas Stoehr, Philipp Darius, Leonie Neuhäuser, Ole Teutloff, Fabian Braesemann<br>
 **Licence:** CC-BY (4.0)
 
 **Abstract:** .... <br>
@@ -39,7 +39,7 @@ Please cite as follows
 @article{
 stephany2020which,
 title={Which industries are most severely affected by the COVID-19 pandemic? – A data-mining approach to identify industry-specific risks in real-time},
-author={Stephany, Fabian and Stoehr, Niklas and Darius, Philipp and Neuh\"auser, Leonie and Teutloff, Ole and Braesemann, Fabian},
+author={Stephany, Fabian and Stoehr, Niklas and Darius, Philipp and Neuhäuser, Leonie and Teutloff, Ole and Braesemann, Fabian},
 booktitle={under review at ...},
 year={2020},
 url={https://github.com/Braesemann/Corona},
