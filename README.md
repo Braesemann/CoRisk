@@ -31,6 +31,8 @@ Bla bla bla
     |   +-- Scrape 10-X Report Sentences.ipynb (Python script to collect SEC data from EDGAR)
     |   +-- process 10k summaries_GH.R (R code to calculate main CoRisk statistics)
     |   +-- app.R (R code to produce dashboard)
+|   +-- Supplement-Code
+    | Code to generate figures from the paper's supplementary materials
 +-- data
 |   Paper_Figures_Data.zip (Data needed to reproduce the main figures from the paper; with Paper_Figures.R)
 |   +-- SICtoNAICS
@@ -40,6 +42,8 @@ Bla bla bla
     |   +-- 2012_to_2017_NAICS.xlsx (Merging table 2012 NAICS to 2017 NAICS, from US Census Bureau)
 |   +-- CoRisk-Index-Data
     |   +-- CoRisk-Index-Data.zip (Data needed to run the scripts in CoRisk-Index-Code directory)
+|   +-- Supplement-Data
+    | Data to generate figures from the paper's supplementary materials
 +-- readme.md
 ```
 
