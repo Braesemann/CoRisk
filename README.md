@@ -1,11 +1,11 @@
-# The CoRisk-Index: Mining industry-specific risks related to COVID-19 in real time
+# The CoRisk-Index: <br> Mining industry-specific risks related to COVID-19 in real time
 
 Code and data accompanying the work to produce figures of the paper 'CoRisk-Index: Mining industry-specific risks related to COVID-19 in real time'.
 
-## The CoRisk-Index online:
+### The CoRisk-Index online:
 http://oxford.berlin/corisk
 
-## Working paper:
+### Working paper:
 https://arxiv.org/abs/2003.12432
 
 ## Description
