@@ -42,6 +42,7 @@ In this repository, we provide all the data and code to replicate the CoRisk-Ind
     |   +-- 2012_to_2017_NAICS.xlsx (Merging table 2012 NAICS to 2017 NAICS, from US Census Bureau)
 |   +-- CoRisk-Index-Data
     |   +-- CoRisk-Index-Data.zip (Data needed to run the scripts in CoRisk-Index-Code directory)
+    |   +-- Raw data (report level).zip (Raw data [output of process 10k summaries_GH.R] on the level of individual reports) 
 |   +-- Supplement-Data
     | Data to generate figures from the paper's supplementary materials
 +-- readme.md
