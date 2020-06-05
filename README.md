@@ -38,7 +38,7 @@ In this repository, we provide all the data and code to replicate the CoRisk-Ind
     |   +-- Code to generate figures from the paper's supplementary materials
 |
 +-- data
-|   +-- Paper_Figures_Data.zip (Data needed to reproduce the main figures from the paper; with Paper_Figures.R)
+|   +-- Paper_Figures_Data.zip (Data to reproduce the main figures of the paper; with Paper_Figures.R)
 |
 |   +-- SICtoNAICS
     |   +-- 1987_SIC_to_2002_NAICS.xls (Merging table 1987 SIC to 2002 NAICS, from US Census Bureau)
