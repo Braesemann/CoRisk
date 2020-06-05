@@ -26,8 +26,8 @@ In this repository, we provide all the data and code to replicate the CoRisk-Ind
 .
 +-- code
 |
-|   Paper_Figures.R (R code to produce all figures from the main paper; needs Paper_Figures_Data.zip)
-|   SIC to NAICS.R (R code to merge the SEC 1987 SIC classification with NAICS 2017 sectors)
+|   +-- Paper_Figures.R (R code to produce all figures from the main paper; needs Paper_Figures_Data.zip)
+|   +-- SIC to NAICS.R (R code to merge the SEC 1987 SIC classification with NAICS 2017 sectors)
 |
 |   +-- CoRisk-Index-Code
     |   +-- Scrape 10-X Report Sentences.ipynb (Python script to collect SEC data from EDGAR)
@@ -35,10 +35,10 @@ In this repository, we provide all the data and code to replicate the CoRisk-Ind
     |   +-- app.R (R code to produce dashboard)
 |
 |   +-- Supplement-Code
-    | Code to generate figures from the paper's supplementary materials
+    |   +-- Code to generate figures from the paper's supplementary materials
 |
 +-- data
-|   Paper_Figures_Data.zip (Data needed to reproduce the main figures from the paper; with Paper_Figures.R)
+|   +-- Paper_Figures_Data.zip (Data needed to reproduce the main figures from the paper; with Paper_Figures.R)
 |
 |   +-- SICtoNAICS
     |   +-- 1987_SIC_to_2002_NAICS.xls (Merging table 1987 SIC to 2002 NAICS, from US Census Bureau)
@@ -52,7 +52,7 @@ In this repository, we provide all the data and code to replicate the CoRisk-Ind
                       on the level of individual reports; allows for more granular analyses) 
 |                   
 |   +-- Supplement-Data
-    | Data to generate figures from the paper's supplementary materials
+    |   +-- Data to generate figures from the paper's supplementary materials
 |
 +-- readme.md
 ```
