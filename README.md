@@ -18,9 +18,9 @@ https://arxiv.org/abs/2003.12432
 
 
 ## Folder Structure and Disclaimer
-Bla bla bla
+In this repository, we provide all the data and code to replicate the CoRisk-Index (the online dashboard) and the figures presented in the main part of the paper. In the coming days, we will also upload code and data to produce the figures from the supplementary materials.
 
-<br> <br> 
+<br>
 
 ```
 .
