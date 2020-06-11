@@ -17,8 +17,8 @@ https://arxiv.org/abs/2003.12432
 **Keywords:** COVID-19, Coronavirus 2, Economic risk, Risk reports, SEC filings, Data mining, Natural language processing, Social data science
 
 
-## Folder Structure and Disclaimer
-In this repository, we provide all the data and code to replicate the CoRisk-Index (the online dashboard) and the figures presented in the main part of the paper. In the coming days, we will also upload code and data to produce the figures from the supplementary materials.
+## Folder Structure
+In this repository, we provide all the data and code to replicate the CoRisk-Index (the online dashboard) and the figures presented in the main part of the paper.
 
 <br>
 
