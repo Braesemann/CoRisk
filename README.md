@@ -9,7 +9,7 @@ http://oxford.berlin/corisk
 https://arxiv.org/abs/2003.12432
 
 ## Description
-**Last modified:** 05 June 2020 <br>
+**Last modified:** 18 June 2020 <br>
 **Authors:** Fabian Stephany, Leonie Neuhäuser, Niklas Stoehr, Philipp Darius, Ole Teutloff, Fabian Braesemann<br>
 **Licence:** CC-BY (4.0)
 
