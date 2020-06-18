@@ -51,6 +51,7 @@ In this repository, we provide all the data and code to replicate the CoRisk-Ind
     |   +-- 2007_to_2012_NAICS.xls (Merging table 2007 NAICS to 2012 NAICS, from US Census Bureau)
     |   +-- 2012_to_2017_NAICS.xlsx (Merging table 2012 NAICS to 2017 NAICS, from US Census Bureau)
 |
++-- CoRisk_Detailed_Documentation.pdf (Detailed documentation to replicate the CoRisk-Index; robustness checks, validations)
 +-- readme.md
 ```
 
