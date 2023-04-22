@@ -3,8 +3,6 @@ let
 in pkgs.mkShell {
   buildInputs = [
     (pkgs.rWrapper.override { packages = with pkgs.rPackages; [
-      ggplot2
-      dplyr
       xts
       tidyverse
       ggpubr
